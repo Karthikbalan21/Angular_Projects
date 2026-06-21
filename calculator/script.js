@@ -1,5 +1,4 @@
 "use strict";
-
 const data = document.getElementById("input");
 function clearDisplay() {
     data.value = "";
